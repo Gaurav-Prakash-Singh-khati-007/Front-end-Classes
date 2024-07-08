@@ -1,0 +1,45 @@
+.navbar{
+    background-color: red;
+    height:5rem;
+}
+.nav_items{
+    
+    display:inline ;
+    margin: 25px ;
+    margin-top: 15px;
+    /* margin-left:10px ;
+    margin-right: 10px; */
+}
+
+.footer{
+    background-color: yellow;
+    height:5rem;
+    
+}
+
+#centre{
+    /* background-color:black; */
+    height: 50rem;
+}
+
+#right_bar{
+    background-color: blue;
+    height: 100%;
+    /* flex-wrap: nowrap; */
+    /* position: relative; */
+    width:50%;
+    float:right;
+    /* height:auto; */
+
+    /* color:black; */
+}
+#left_bar{
+    background-color: green;
+    height: 100%;
+    /* position: relative; */
+    width:50%;
+    float:left;
+    /* height:auto; */
+
+    /* color:black; */
+}
